@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Gradient%20Boosting%2C%20XGBoost-orange)
 
+
 A machine learning system that classifies exercise activities using sensor data from wearable devices. This project demonstrates a complete ML pipeline — from data preprocessing to model evaluation.
 
 ---
