@@ -1,8 +1,3 @@
-Thanks! You uploaded a Jupyter Notebook named **`Exercise_monitoring.ipynb`**. Here's a sample `README.md` file you can use for GitHub. It explains the purpose of the project, its structure, how to run it, and prerequisites:
-
----
-
-### ✅ `README.md` (GitHub-Ready)
 
 ````markdown
 # Exercise Monitoring using Wearable Sensors
@@ -87,17 +82,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 **Sowpnil Roy**
 Bachelor of Science in CSE, AUST
-Email: \[[your\_email@example.com](mailto:your_email@example.com)]
-
 ```
 
----
 
-Let me know if you want to:
-
-- Include your actual dataset link.
-- Generate a `requirements.txt` from your `.ipynb`.
-- Add demo images or graphs to the README.
-
-I can also generate a LICENSE file if needed.
-```
